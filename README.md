@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey 👋, This is Ahmet Bibi
+[![Gmail Badge](https://img.shields.io/badge/-ahmetbibi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahmetbibi@gmail.com)](mailto:ahmetbibi@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-ahmetbibi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetbibi/)](https://www.linkedin.com/in/ahmetbibi/) [![Github Badge](https://img.shields.io/badge/-ahmetbibi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ahmetbibi/)](https://www.github.com/ahmetbibi/) <p align='left'>Developer with a BSc in Electrical and Electronics Engineering and an MSc in Information Systems. After 4 years working as a Technical Specialist I had to leave Turkey seeking refugee status. Today I allocate all my energy to building a new future for me and my family by doing what I like the most: coding and solving problems. I'm a responsible and caring person that learns fast, likes to share, and takes work and personal growth seriously.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1SmwlWnW_nvmSemrDL8UGeK-sH1I6x7uM/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ahmetbibi alt=ahmetbibi /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ahmetbibi&show_icons=true&include_all_commits=true)](https://github.com/ahmetbibi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbibi&layout=compact)](https://github.com/ahmetbibi/github-readme-stats)
+
